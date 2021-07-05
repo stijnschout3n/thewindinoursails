@@ -20,7 +20,7 @@ Directory information:
      - VOCOP: VOC Opvarenden mapping folder.
   - docker container: docker container, can be initialized with the command "docker-compose -d" with PowerShell. First navigate to the "my-deployment" folder.
 
-Thesis, including appendices, is included: https://github.com/stijnschout3n/thewindinoursails/blob/main/Thesis_Stijn_Schouten_V1.pdf
+Thesis (to be uploaded), including appendices, is included: https://github.com/stijnschout3n/thewindinoursails/blob/main/Thesis_Stijn_Schouten_V1.pdf
 
 The ontology, in .ttl format, is included: https://github.com/stijnschout3n/thewindinoursails/blob/main/maritimehistorycontinued_V1.rdf
 
