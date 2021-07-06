@@ -1,4 +1,8 @@
 # thewindinoursails
+
+Changelog:
+- 06/07/2021: found a small mistake in the BGB DAS mapping. dfhc:P9 should be dfhc:P12 in mapping goods to monetary amounts. Is updated in the Gdrive
+
 Information and downloads 
 
 Link to the shared directory:
