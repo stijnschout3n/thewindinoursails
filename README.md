@@ -2,6 +2,7 @@
 
 Changelog:
 - 06/07/2021: found a small mistake in the BGB DAS mapping. dfhc:P9 should be dfhc:P12 in mapping goods to monetary amounts. Is updated in the Gdrive
+- 30-08-2021: Lodewijk discovered that the Docker container does not contain the templates. todo: upload version to the shared drive that contains the templates as well. Planned on Thursday. 
 
 Information and downloads 
 
